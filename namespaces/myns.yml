@@ -1,0 +1,6 @@
+aPiversion: v1
+kind: Namespace
+metadata:
+  lables:
+    name: lamanifest
+  name: lamanifest
