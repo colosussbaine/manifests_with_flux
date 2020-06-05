@@ -1,4 +1,4 @@
-aPiversion: v1
+apiversion: v1
 kind: Namespace
 metadata:
   lables:
